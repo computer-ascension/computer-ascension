@@ -7,16 +7,17 @@ You can click the Preview link to take a look at your changes.
 
 <div align = "center">
 
-<img src = "drone-operator.jpg" alt = "drone_image" align = "center">
+<img src = "ai-merge.jpg" alt = "drone_image" align = "center">
 
 </div>
 
 <p align = "center">
 
-- 💻 Computer Engineer specializing in Artificial Intelligence 
-- 💞️ I’m looking to collaborate on Python Projects
-- 🤖 Outworking Everyone
-- 🚁 Drone (UAV) operator in progress to obtain the FAA Drone License
+ - 💻 Computer Engineer specializing in Artificial Intelligence 
+ - 💞️ I’m looking to collaborate on Python Projects</li>
+ - 🤖 Outworking Everyone
+ - 🚁 Drone (UAV) operator in progress to obtain the FAA Drone License<
+
 
 </p>
 
