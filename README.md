@@ -3,11 +3,11 @@ computer-ascension/computer-ascension is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align = "center">🤖💻 Welcome 🤖💻</h1>
+<h1 align = "center">🤖💻 Time To Elevate 🤖💻</h1>
 
 <div align = "center">
 
-<img src = "media/background-profiles/fpv-drone.png" alt = "drone_image" align = "center">
+<img src = "drone-operator.jpg" alt = "drone_image" align = "center">
 
 </div>
 
@@ -20,55 +20,41 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<h2 align = "center">Programming Language & Frameworks</h2>
+<h2 align = "center">Programming</h2>
 
 <p align ="center">
 
-  <img src = "media/icons/html.png" height = 40 hspace = 10>
-  <img src = "media/icons/css.png" height=40 hspace=10> 
-  <img src = "media/icons/javascript.png" height = 40 hspace = 10>
-  <img src = "media/icons/python.png" height = 40 hspace = 10>
-  <img src = "media/icons/c++.png" height = 40 hspace = 10>
-  <img src = "media/icons/java.png" height = 40 hspace = 10><br>
-  <img src = "media/icons/bootstrap.png" height = 40 hspace = 10>
-  <img src = "media/icons/react.png" height = 40 hspace = 10>
-  <img src = "media/icons/sql.png" height = 40 hspace = 10>
-  <img src = "media/icons/json.png" height = 40 hspace = 10>
+  <img src = "html.png" height = 40 hspace = 10>
+  <img src = "css.png" height=40 hspace=10> 
+  <img src = "javascript.png" height = 40 hspace = 10>
+  <img src = "python.png" height = 40 hspace = 10>
+  <img src = "c++.png" height = 40 hspace = 10>
+  <img src = "java.png" height = 40 hspace = 10><br>
+  <img src = "bootstrap.png" height = 40 hspace = 10>
+  <img src = "react.png" height = 40 hspace = 10>
+  <img src = "sql.png" height = 40 hspace = 10>
+  <img src = "json.png" height = 40 hspace = 10>
   
 </p>
 
-<h2 align = "center" border = "">Tools</h2>
+<h2 align = "center">Systems Expertise</h2>
 
 <p align ="center">
 
-  <img src = "media/icons/git.png" height = 40 hspace = 10>
-  <img src = "media/icons/github.png" height = 40 hspace = 10>
-  <img src = "media/icons/adobe-xd.png" height = 40 hspace = 10>
-  <img src = "media/icons/power-bi.png" height = 40 hspace = 10>
-  <img src = "media/icons/visual-studio.png" height=40 hspace=10>
-  <img src="media/icons/visual-studio-code.png" height=40 hspace=10>
-  <img src = "media/icons/markdown.png" height = 40 hspace = 10>
-
+  <img src = "cctv.png" height = 40 hspace = 10>
+  <img src = "drone.png" height = 40 hspace = 10>
+  <img src = "pin.png" height = 40 hspace = 10>
+ 
 </p>
 
-<h2 align = "center">IT</h2>
+<h2 align = "center">Computer Hardware</h2>
 
 <p align ="center">
 
-  <img src = "media/icons/cctv.png" height = 40 hspace = 10>
-  <img src = "media/icons/drone.png" height = 40 hspace = 10>
-  <img src = "media/icons/pin.png" height = 40 hspace = 10>
-  
-</p>
-
-<h2 align = "center">Hardware</h2>
-
-<p align ="center">
-
-  <img src = "media/icons/microprocessor.png" height = 40 hspace = 10>
-  <img src = "media/icons/arduino.png" height = 40 hspace = 10>
-  <img src = "media/icons/server.png" height = 40 hspace = 10>
-  <img src = "media/icons/camera.png" height = 40 hspace = 10>
+  <img src = "microprocessor.png" height = 40 hspace = 10>
+  <img src = "arduino.png" height = 40 hspace = 10>
+  <img src = "server.png" height = 40 hspace = 10>
+  <img src = "camera.png" height = 40 hspace = 10>
   
 </p>
 
