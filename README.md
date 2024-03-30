@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
  - 💻 Computer Engineer specializing in Artificial Intelligence 
  - 💞️ I’m looking to collaborate on Python Projects</li>
  - 🤖 Outworking Everyone
- - 🚁 Drone (UAV) operator in progress to obtain the FAA Drone License<
+ - 🚁 Drone (UAV) operator in progress to obtain the FAA Drone License
 
 
 </p>
